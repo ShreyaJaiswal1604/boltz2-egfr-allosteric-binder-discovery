@@ -1,0 +1,110 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+.Python
+*.manifest
+*.spec
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+*.mo
+*.pot
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+.pyenv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.claude/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Data files (large binary data)
+data/*/boltz2_output.json
+data/**/structures/*.mmcif
+data/**/structures/*.cif
+data_std/**/complex.pdb
+data_std/**/complex_temp.pdb
+*.pdb
+*.cif
+*.mmcif
+*.pse
+*.mae
+
+# Outputs (generated files)
+outputs/*.csv
+outputs/*.json
+outputs/*.txt
+outputs/*.log
+
+# Analysis outputs
+analysis/figures/*.png
+analysis/figures/*.pdf
+analysis/figures/*.svg
+analysis/pymol_structures/*.png
+analysis/pymol_structures/*.pse
+analysis/dashboard.html
+
+# Logs
+*.log
+logs/
+*.out
+*.err
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Documentation build
+docs/_build/
+docs/.doctrees/
+site/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Ruff
+.ruff_cache/
+
+# PyCharm
+.idea/
+
+# Profiling
+*.prof
+*.lprof
