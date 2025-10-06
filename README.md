@@ -365,7 +365,7 @@ PLIP: Salentin et al., Nucleic Acids Res, 2015
 
 ## License
 
-[Specify license - e.g., MIT, Apache 2.0]
+ MIT, Apache 2.0
 
 ## Contact
 
