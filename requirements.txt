@@ -1,0 +1,28 @@
+# EGFR Allosteric Drug Discovery Pipeline Dependencies
+# Python 3.10+
+
+# Core scientific computing
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+scipy>=1.11.0
+
+# Molecular handling and cheminformatics
+rdkit>=2023.3.1
+biopython>=1.81
+
+# Structural analysis
+MDAnalysis>=2.5.0
+
+# Visualization (optional)
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# PLIP (Protein-Ligand Interaction Profiler)
+# Note: PLIP should be installed separately via:
+# pip install plip
+# or from: https://github.com/pharmai/plip
+plip>=2.3.0
+
+# Progress bars
+tqdm>=4.65.0
