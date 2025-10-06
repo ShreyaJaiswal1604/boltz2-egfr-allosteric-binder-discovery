@@ -1,4 +1,4 @@
-# EGFR Allosteric Drug Discovery Workflow
+# 💊 EGFR Allosteric Drug Discovery Workflow
 
 A complete computational pipeline for unbiased, site-agnostic ranking of EGFR allosteric inhibitor candidates from Boltz-2 structure predictions.
 
