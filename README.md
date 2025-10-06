@@ -1,4 +1,4 @@
-# 💊 EGFR Allosteric Drug Discovery Workflow
+# 💊  Boltz2 EGFR Allosteric Binder Discovery Workflow
 
 A complete computational pipeline for unbiased, site-agnostic ranking of EGFR allosteric inhibitor candidates from Boltz-2 structure predictions.
 
@@ -15,7 +15,7 @@ This workflow processes molecular docking results from two compound libraries (c
 - **Reproducible**: Fixed algorithms ensure same input → same output
 
 ## Workflow Diagram
-![alt text](image-3.png)
+![alt text](image-4.png)
 ## Directory Structure
 
 ```
