@@ -15,7 +15,7 @@ This workflow processes molecular docking results from two compound libraries (c
 - **Reproducible**: Fixed algorithms ensure same input → same output
 
 ## Workflow Diagram
-![alt text](image.png)
+![alt text](image-2.png)
 
 ## Directory Structure
 
