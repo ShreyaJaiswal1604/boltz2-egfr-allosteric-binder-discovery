@@ -14,6 +14,9 @@ This workflow processes molecular docking results from two compound libraries (c
 - **Diversity enforcement**: Chemical similarity clustering to avoid redundant hits
 - **Reproducible**: Fixed algorithms ensure same input → same output
 
+## Workflow Diagram
+![alt text](image.png)
+
 ## Directory Structure
 
 ```
